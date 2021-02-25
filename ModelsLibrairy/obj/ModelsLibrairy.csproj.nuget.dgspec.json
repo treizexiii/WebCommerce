@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darkt\\source\\repos\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj": {}
+    "D:\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darkt\\source\\repos\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj": {
+    "D:\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darkt\\source\\repos\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj",
+        "projectUniqueName": "D:\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj",
         "projectName": "ModelsLibrairy",
-        "projectPath": "C:\\Users\\darkt\\source\\repos\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj",
-        "packagesPath": "C:\\Users\\darkt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darkt\\source\\repos\\WebCommerce\\ModelsLibrairy\\obj\\",
+        "projectPath": "D:\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj",
+        "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+        "outputPath": "D:\\WebCommerce\\ModelsLibrairy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\darkt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

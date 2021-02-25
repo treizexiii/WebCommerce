@@ -6027,23 +6027,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\darkt\\.nuget\\packages\\": {},
+    "C:\\Users\\Jonathan\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darkt\\source\\repos\\WebCommerce\\ClientApi\\ClientApi.csproj",
+      "projectUniqueName": "D:\\WebCommerce\\ClientApi\\ClientApi.csproj",
       "projectName": "ClientApi",
-      "projectPath": "C:\\Users\\darkt\\source\\repos\\WebCommerce\\ClientApi\\ClientApi.csproj",
-      "packagesPath": "C:\\Users\\darkt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darkt\\source\\repos\\WebCommerce\\ClientApi\\obj\\",
+      "projectPath": "D:\\WebCommerce\\ClientApi\\ClientApi.csproj",
+      "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+      "outputPath": "D:\\WebCommerce\\ClientApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\darkt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -6058,8 +6058,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\darkt\\source\\repos\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj": {
-              "projectPath": "C:\\Users\\darkt\\source\\repos\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj"
+            "D:\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj": {
+              "projectPath": "D:\\WebCommerce\\ModelsLibrairy\\ModelsLibrairy.csproj"
             }
           }
         }
